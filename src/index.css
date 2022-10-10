@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Monument;
+  src: url("./assets/fonts/MonumentExtended-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Monument;
+  font-weight: bold;
+  src: url("./assets/fonts/MonumentExtended-Ultrabold.otf") format("opentype");
+}
+
+:root {
+  font-family: Monument, Avenir, Helvetica, Arial, sans-serif;
+}
